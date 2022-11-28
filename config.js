@@ -7,26 +7,24 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰ 
 global.owner = [
-  ['5492266466080', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['5492266613038', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['51984498676', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['593968585383'],
-  ['5492266573414'],
-  ['529612005844'] 
+  ['524531106422', '💌༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒💌', true],
+  ['5493813403468', '༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒', true],
+  ['595983186566', '💌༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒💌', true],
+
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['595986172767', '5493704555464'], 
+global.mods = [''] 
+global.prems = ['', ''], 
   
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga 𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫
+//Agrega el Idioma que quieres que tenga ༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de 𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de ༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -103,8 +101,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'toma tu stickers'
-global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.packname = '𝘼𝙇𝙀𝙓𝙄𝙎_𝙒𝙄𝙏𝙃-𝙇𝙊𝙂𝙄𝘾🖥️'
+global.author = '💌༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒💌'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -114,10 +112,10 @@ global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
 global.vs = '1.3.7'
 global.version = vs
 
-global.gt = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.gt = '༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒'
 global.gatabot = gt
 
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
+global.yt = 'https://youtube.com/@dragon-botxblack-bot195'
 global.youtube = yt
 
 global.ig = 'https://www.tiktok.com/@thelolibot_md'
@@ -126,28 +124,28 @@ global.gatadiosig = ig
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o'
+global.nna = 'https://chat.whatsapp.com/FryuqmtpT6RFVJDJAblT3S'
 global.nnagrupo = nna //grupo informacion sobre el bot
 
-global.nn = 'https://chat.whatsapp.com/Ei87TDT7fsI3Q3p5MnM9sW'
+global.nn = 'https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/JZ0Ls4Fqc4b5pirH1BYvYK'
+global.nnn = 'https://chat.whatsapp.com/GgyqPI2YEUbJCSpHKuTJXn'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/KkHx88JzJpO7QrLu8Cf6rX'
+global.nnnt = 'https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/Bn3NPjToS9r9q3mfkHa4PX'
+global.nnntt = 'https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/DNJ4Ppm5ysn3fhjGflrr0J'
-global.nnntttgrupo = nnnttt //Grupo ayuda sobfe el bot
+global.nnnttt = 'https://chat.whatsapp.com/HCajrEYcqBg4bmMrO1mpBA'
+global.nnntttgrupo = nnnttt //Grupo ayuda sobre el bot
 
 global.paypal = ''
 global.donar = paypal
 
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/5214531106422' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -172,7 +170,7 @@ global.mal = mg
 global.eeg = '╰⊱📩⊱ *𝙧𝙚𝙥𝙤𝙧𝙩𝙚* ⊱📩⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝙚𝙭𝙞𝙩𝙤* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱🍀⊱ *𝙚𝙭𝙞𝙩𝙤* ⊱🍀⊱╮\n\n'
 global.exito = eg
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊
@@ -181,13 +179,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = '༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒'
+global.igfg = '༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '5492266466080'
+global.nomorown = '524531106422'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
